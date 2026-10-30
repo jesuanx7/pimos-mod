@@ -1,0 +1,11 @@
+{
+  "version": 1,
+  "mods": [
+    {
+      "name": "sodium-fabric-0.8.14+mc1.21.11.jar",
+      "url": "https://raw.githubusercontent.com/jesuanx7/pimos-mod/main/sodium-fabric-0.8.14%2Bmc1.21.11.jar",
+      "sha1": "4A8733FE544168068D12FA94B2AB03E6C0C7BF91"
+    }
+  ],
+  "resourcepacks": []
+}
